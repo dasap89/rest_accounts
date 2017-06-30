@@ -1,4 +1,4 @@
-# rest_accounts
+
 =============
 Account application
 =============
