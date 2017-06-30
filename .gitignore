@@ -1,0 +1,27 @@
+# sqlite databases
+*.sqlite3
+
+# uploaded files belonging to the webapp
+uploads/*
+
+# logs
+app.log
+
+# pytest coverage files
+.coverage
+cov_html
+
+# python-generated files
+.cache
+__pycache__
+
+# IDEs
+*.idea
+
+# MacOs files generated
+.DS_Store
+
+ubuntu-xenial-16.04-cloudimg-console.log
+
+# local_settings file
+*local_settings.py

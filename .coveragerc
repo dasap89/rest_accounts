@@ -1,0 +1,8 @@
+[run]
+omit =
+    conftest.py
+    email_auth/migrations/*
+    main/migrations/*
+    main/apps.py
+    accounts/wsgi.py
+    manage.py
